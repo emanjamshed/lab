@@ -1,1 +1,1 @@
-# lab
+print# lab
